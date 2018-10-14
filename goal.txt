@@ -1,0 +1,4 @@
+Design, build and demo a real-world solution that:
+
+- provides simpler, smarter, faster ways for buyers to find the right home
+- drives more meaningful connections between REALTORS® and consumers
