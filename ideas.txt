@@ -1,0 +1,29 @@
+# Sponsoring
+Benefits of financial institutions sponsoring listings:
+-    Sellers :
+o    Better visibility of listing
+o    “Proof of good property”
+o    => Faster selling
+-    Buyers :
+o    Financial benefits (lower interest rates, offers from financial institutions’ partners…)
+o    More confidence (sponsored = “good” choice)
+o    Faster process (financial institution that is ready to give you money to buy the property)
+-    Realtors :
+o    Sponsorship from financial institutions
+o    More active market = more income
+-    Financial institutions :
+o    Increased potential of getting new customers and the ability to choose customers with lower risk rates
+o    Encouraging investment in specific type of properties or areas (field of expertise of the financial institution or partner institutions)
+o    More income (direct = mortgages and indirect = buyer may need loan for other investments related to the property)
+
+# Realtor rating system:
+Adding a rating system that indicates how good is a realtor at certain areas or type of properties:
+- What is their field/area of expertise (agriculture, residential, vacant lands...; Ottawa/Gatineau area, City of Toronto...)
+- How good are they at saving/making money (compare original listing price to closing price)
+- How fast are they at concluding deals (compare listing date to closing date)
+- How good are they at communicating with people (customer satisfaction factor)
+
+# Property search improvements:
+- Select locations (ex: uOttawa + Rideau center / radius: 2 km) instead of areas so results will show houses whithin your radius of interest.
+
+
